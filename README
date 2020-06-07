@@ -14,7 +14,7 @@ String  money	      （余额）
 
 2.登录
 //根据账号、密码进行登录
-格式：http://101.200.127.105:8080/TestService/login?name=①& password=②
+格式：http://101.200.127.105:8080/TestService/login?name=①&password=②
 备注：①为账号；②为密码；需要匹配
 
 
