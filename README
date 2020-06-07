@@ -1,7 +1,7 @@
 数据：
 String  name	      （账号）
-String  password    （密码）
-String  nickname    （昵称）
+String  password      （密码）
+String  nickname      （昵称）
 String  sex	      （性别）
 String  address	      （地址）
 String  money	      （余额）
